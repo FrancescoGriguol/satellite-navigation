@@ -1,0 +1,69 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces \textit {Schematizzazione del metodo dei minimi quadrati implementato.}\relax }}{2}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\textit {Metodo dei minimi quadrati non pesato.}}}}{2}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\textit {Metodo dei minimi quadrati pesato.}}}}{2}{}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces \textit {Rappresentazioni grafiche della minimizzazione delle funzioni di costo $\chi ^2 (\underline {x}^{(k)})$ e $\Sigma ^2(\Delta \underline {x})$.}\relax }}{4}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\textit {Migrazione del valore di $\chi ^2 (\underline {x}^{(k)})$ verso il punto di minimo.}}}}{4}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\textit {Posizione del valore di $\Sigma ^2(\Delta \underline {x})$ all'ultima iterazione dell'algoritmo nel punto di minimo.}}}}{4}{}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces \textit {Confronto tra l'allineamento o meno delle ground stations.}\relax }}{5}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\textit {Disposizione delle ground stations non allineate dello \textsl {scenario 2}}}}}{5}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\textit {Disposizione delle ground stations non allineate dello \textsl {scenario 4}}}}}{5}{}%
+\contentsline {figure}{\numberline {1.4}{\ignorespaces \textit {Confronto tra posizione finale stimata e posizione reale tra \textsl {scenario 2} e \textsl {scenario 4}.}\relax }}{6}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\textit {Ellissoide di incertezza e posizioni stimate dello \textsl {scenario 2} rispetto alla posizione reale}}}}{6}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\textit {Ellissoide di incertezza e posizioni stimate dello \textsl {scenario 4} rispetto alla posizione reale}}}}{6}{}%
+\contentsline {figure}{\numberline {1.5}{\ignorespaces \textit {Confronto tra posizione finale stimata e posizione reale tra \textsl {scenario 2} e \textsl {scenario 4}.}\relax }}{8}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\textit {Ellissoide di incertezza e posizioni stimate dello \textsl {scenario 2} rispetto alla posizione reale}}}}{8}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\textit {Ellissoide di incertezza e posizioni stimate dello \textsl {scenario 4} rispetto alla posizione reale}}}}{8}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces \textit {Lista di valori che caratterizzano le effemeridi di un satellite di una costellazione GPS (ma anche Galileo e BeiDou) trasmessi dal Broadcast Navigation Message}\relax }}{12}{}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces \textit {Lista di valori che caratterizzano le effemeridi di un satellite di una costellazione GLONASS (ma anche Galileo e BeiDou) trasmessi dal Broadcast Navigation Message}\relax }}{13}{}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces \textit {Visualizzazione tridimensionali delle orbite dei satelliti SAT1, SAT15 e SAT30 della costellazione GPS.}\relax }}{14}{}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces \textit {Visualizzazione tridimensionali delle orbite dei satelliti SAT1, SAT12 e SAT24 della costellazione GLONASS.}\relax }}{15}{}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces \textit {Visualizzazione delle orbite dei SAT1, SAT15 e SAT30 della costellazione GPS.}\relax }}{15}{}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces \textit {Visualizzazione delle orbite dei SAT1, SAT12 e SAT24 della costellazione GLONASS.}\relax }}{16}{}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces \textit {Visualizzazione delle orbite dei SAT1, SAT12 e SAT24 della costellazione GLONASS.}\relax }}{16}{}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces \textit {Differenza nel computo delle coordinate cartesiane della posizione orbitale del SAT4 della costellazione GPS nel tempo di interpolazione scelto e relativo particolare.}\relax }}{17}{}%
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {\textit {Differenza nel computo delle coordinate cartesiane della posizione orbitale del SAT4 della costellazione GPS nel tempo di interpolazione scelto.}}}}{17}{}%
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {\textit {Particolare della differenza nel computo delle coordinate cartesiane della posizione orbitale del SAT4 della costellazione GPS}}}}{17}{}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces \textit {Skyplot dei satelliti in vista della costellazione GPS}\relax }}{18}{}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces \textit {Numero dei satelliti in vista della costellazione GPS, con orbite computate con Navigation Broadcast Message.}\relax }}{19}{}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces \textit {Skyplot dei satelliti in vista della costellazione GPS, con orbite computate con Precise Products.}\relax }}{19}{}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces \textit {Numero dei satelliti in vista della costellazione GPS, con orbite computate con Precise Products.}\relax }}{20}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces \textit {Differenza tra UT, TAI e UTC e visualizzazione dei leap seconds.}\relax }}{22}{}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces \textit {Elenco dei vari contributi che competono alla misura di pseudorange.}\relax }}{23}{}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces \textit {Giustificazione grafica del considerare le coordinate del satellite al tempo di acquisizione, piuttosto che a quello di trasmissione del segnale di navigazione.}\relax }}{24}{}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces \textit {Visualizzazione delle posizioni stimate (blu) e posizioni fiduciarie di partenza (rosse).}\relax }}{26}{}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces \textit {Variazione delle varie formulazioni per il DOP lungo il tempo di acquisizione per il caso statico di partenza.}\relax }}{27}{}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces \textit {Skyplot dei satelliti GPS in vista al momento dell'acquisizione statica di partenza.}\relax }}{27}{}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces \textit {Visualizzazione delle posizioni stimate (blu) e posizioni fiduciarie dinamiche (rosse).}\relax }}{27}{}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces \textit {Variazione delle varie formulazioni per il DOP lungo il tempo di acquisizione per il caso dinamico.}\relax }}{28}{}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces \textit {Skyplot dei satelliti GPS in vista al momento dell'acquisizione dinamica.}\relax }}{28}{}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces \textit {Visualizzazione delle posizioni stimate (blu) e posizioni fiduciarie di arrivo (rosse).}\relax }}{28}{}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces \textit {Variazione delle varie formulazioni per il DOP lungo il tempo di acquisizione per il caso statico di arrivo.}\relax }}{29}{}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces \textit {Skyplot dei satelliti GPS in vista al momento dell'acquisizione statica di arrivo.}\relax }}{29}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces \textit {Vista satellitare del Parco d'Europa, Padova.}\relax }}{35}{}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces \textit {Particolare sulle posizioni fiduciarie (blu) e stimate (rosse).}\relax }}{35}{}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces \textit {Particolare sulle posizioni fiduciarie (blu) e stimate (rosse).}\relax }}{36}{}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces \textit {Skyplot dei satelliti GPS in vista al momento dell'acquisizione statica di partenza.}\relax }}{36}{}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces \textit {Visualizzazione delle posizioni stimate (blu) e posizioni fiduciarie dinamiche (rosse).}\relax }}{36}{}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces \textit {Variazione delle varie formulazioni per il DOP lungo il tempo di acquisizione per il caso dinamico.}\relax }}{37}{}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces \textit {Skyplot dei satelliti GPS in vista al momento dell'acquisizione dinamica.}\relax }}{37}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces \textit {Errore commesso nella stima della posizione di partenza della terza esperienza di laboratorio non considerando il clock offset degli orologi a bordo dei satelliti della costellazione GPS.}\relax }}{39}{}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces \textit {Errore commesso nella stima della posizione di partenza della terza esperienza di laboratorio non considerando l'esistenza dei leap seconds.}\relax }}{39}{}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces \textit {Errore commesso nella stima della posizione di partenza della terza esperienza di laboratorio considerando la posizione dei satelliti al momento di ricezione del segnale, e non al momento di emissione del segnale stesso.}\relax }}{40}{}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces \textit {Errore commesso nella stima della posizione di partenza della terza esperienza di laboratorio non considerando l'effetto Segnac, ovvero non tenendo in considerazione la rotazione della Terra.}\relax }}{40}{}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces \textit {Errore commesso nella stima della posizione di partenza della terza esperienza di laboratorio non considerando l'effetto relativistico nella cadenza del tempo a bordo degli orologi dei satelliti.}\relax }}{40}{}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces \textit {Errore commesso nella stima della posizione di partenza della terza esperienza di laboratorio non considerando l'effetto della ionosfera.}\relax }}{41}{}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces \textit {Errore commesso nella stima della posizione di partenza della terza esperienza di laboratorio non considerando l'effetto della troposfera.}\relax }}{41}{}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces \textit {Errore commesso nella stima delle posizioni acquisite nel caso dinamico dell'ottava esperienza di laboratorio non considerando il clock offset degli orologi a bordo dei satelliti della costellazione GPS.}\relax }}{42}{}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces \textit {Errore commesso nella stima delle posizioni acquisite nel caso dinamico dell'ottava esperienza di laboratorio non considerando l'esistenza dei leap seconds.}\relax }}{42}{}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces \textit {Errore commesso nella stima delle posizioni acquisite nel caso dinamico dell'ottava esperienza di laboratorio considerando la posizione dei satelliti al momento di ricezione del segnale, e non al momento di emissione del segnale stesso.}\relax }}{42}{}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces \textit {Errore commesso nella stima delle posizioni acquisite nel caso dinamico dell'ottava esperienza di laboratorio non considerando l'effetto Segnac, ovvero non tenendo in considerazione la rotazione della Terra.}\relax }}{43}{}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces \textit {Errore commesso nella stima delle posizioni acquisite nel caso dinamico dell'ottava esperienza di laboratorio non considerando l'effetto relativistico nella cadenza del tempo a bordo degli orologi dei satelliti.}\relax }}{43}{}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces \textit {Errore commesso nella stima delle posizioni acquisite nel caso dinamico dell'ottava esperienza di laboratorio non considerando l'effetto della ionosfera.}\relax }}{43}{}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces \textit {Errore commesso nella stima delle posizioni acquisite nel caso dinamico dell'ottava esperienza di laboratorio non considerando l'effetto della troposfera.}\relax }}{44}{}%

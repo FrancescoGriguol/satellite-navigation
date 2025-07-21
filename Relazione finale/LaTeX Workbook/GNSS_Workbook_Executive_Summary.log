@@ -1,0 +1,1415 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.12.8)  4 JUL 2024 18:36
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./GNSS_Workbook_Executive_Summary.tex
+(GNSS_Workbook_Executive_Summary.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-09-28>
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/base\bk11.clo
+File: bk11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.de
+f
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+\stockwidth=\dimen139
+\stockheight=\dimen140
+)
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+) (C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2022/10/04 3.81 The Babel package
+\babel@savecnt=\count194
+\U@D=\dimen141
+\l@unhyphenated=\language79
+
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count195
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/babel-italian\italian.
+ldf
+Language: italian 2022/03/27 v.1.4.07 Italian support for the babel system
+\it@lettering=\count196
+\it@doublequoteactive=\count197
+\it@ISOcompliance=\count198
+))
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/it\babe
+l-italian.tex
+Package babel Info: Importing font and identification data for italian
+(babel)             from babel-it.ini. Reported on input line 11.
+)
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count199
+) (C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.st
+y
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+) (C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen142
+))
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen143
+)
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count266
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count267
+\leftroot@=\count268
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count269
+\DOTSCASE@=\count270
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen144
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count271
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count272
+\dotsspace@=\muskip16
+\c@parentequation=\count273
+\dspbrk@lvl=\count274
+\tag@help=\toks17
+\row@=\count275
+\column@=\count276
+\maxfields@=\count277
+\andhelp@=\toks18
+\eqnshift@=\dimen145
+\alignsep@=\dimen146
+\tagshift@=\dimen147
+\tagwidth@=\dimen148
+\totwidth@=\dimen149
+\lineht@=\dimen150
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count278
+\Gm@cntv=\count279
+\c@Gm@tempcnt=\count280
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
+\Gm@dimlist=\toks22
+
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)
+)
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.
+cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen159
+\Gin@req@width=\dimen160
+) (C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen161
+\ar@mcellbox=\box53
+\extrarowheight=\dimen162
+\NC@list=\toks23
+\extratabsurround=\skip52
+\backup@length=\skip53
+\ar@cellbox=\box54
+) (C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count281
+\float@exts=\toks24
+\float@box=\box55
+\@float@everytoks=\toks25
+\@floatcapt=\box56
+)
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/doublestroke\dsfont.st
+y
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+)
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/footmisc\footmisc.sty
+Package: footmisc 2022/03/08 v6.0d a miscellany of footnote facilities
+\FN@temptoken=\toks26
+\footnotemargin=\dimen163
+\@outputbox@depth=\dimen164
+Package footmisc Info: Declaring symbol style bringhurst on input line 695.
+Package footmisc Info: Declaring symbol style chicago on input line 703.
+Package footmisc Info: Declaring symbol style wiley on input line 712.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 723.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 743.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 764
+.
+) (C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen165
+\captionmargin=\dimen166
+\caption@leftmargin=\dimen167
+\caption@rightmargin=\dimen168
+\caption@width=\dimen169
+\caption@indent=\dimen170
+\caption@parindent=\dimen171
+\caption@hangindent=\dimen172
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count282
+\c@continuedfloat=\count283
+Package caption Info: float package is loaded.
+)
+\c@KVtest=\count284
+\sf@farskip=\skip54
+\sf@captopadj=\dimen173
+\sf@capskip=\skip55
+\sf@nearskip=\skip56
+\c@subfigure=\count285
+\c@subfigure@save=\count286
+\c@lofdepth=\count287
+\c@subtable=\count288
+\c@subtable@save=\count289
+\c@lotdepth=\count290
+\sf@top=\skip57
+\sf@bottom=\skip58
+) (C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen174
+\WF@size=\dimen175
+\c@WF@wrappedlines=\count291
+\WF@box=\box57
+\WF@everypar=\toks27
+Package: wrapfig 2003/01/31  v 3.6
+) (C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3
+keys2e.sty
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-09-28 L3 programming layer (loader) 
+
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
+ftex.def
+File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count292
+\l__pdf_internal_box=\box58
+))
+Package: l3keys2e 2022-06-22 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count293
+\l__lipsum_a_int=\count294
+\l__lipsum_b_int=\count295
+
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)
+)
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip59
+\enit@outerparindent=\dimen176
+\enit@toks=\toks28
+\enit@inbox=\box59
+\enit@count@id=\count296
+\enitdp@description=\count297
+) (C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/cancel\cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+)
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/tools\bm.sty
+Package: bm 2022/01/05 v1.2f Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
+Package bm Info: No bold for \U/msa/m/n, using \pmb.
+Package bm Info: No bold for \U/msb/m/n, using \pmb.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
+)
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip60
+\f@nch@O@elh=\skip61
+\f@nch@O@erh=\skip62
+\f@nch@O@olh=\skip63
+\f@nch@O@orh=\skip64
+\f@nch@O@elf=\skip65
+\f@nch@O@erf=\skip66
+\f@nch@O@olf=\skip67
+\f@nch@O@orf=\skip68
+) (C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks29
+\inpenc@posthook=\toks30
+)
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup9
+) (C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\euscript.st
+y
+Package: euscript 2009/06/22 v3.00 Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
+) (C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/eurosym\eurosym.sty
+Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
+\@eurobox=\box60
+) (C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.st
+y
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box61
+\beforetitleunit=\skip69
+\aftertitleunit=\skip70
+\ttl@plus=\dimen177
+\ttl@minus=\dimen178
+\ttl@toksa=\toks31
+\titlewidth=\dimen179
+\titlewidthlast=\dimen180
+\titlewidthfirst=\dimen181
+) (GNSS_Workbook_Executive_Summary.aux)
+\openout1 = `GNSS_Workbook_Executive_Summary.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
+kii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count298
+\scratchdimen=\dimen182
+\scratchbox=\box62
+\nofMPsegments=\count299
+\nofMParguments=\count300
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count301
+\MPscratchDim=\dimen183
+\MPnumerator=\count302
+\makeMPintoPDFobject=\count303
+\everyMPtoPDFconversion=\toks33
+)
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-
+base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.
+cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Info: Redefining \it@ocap on input line 38.
+LaTeX Info: Redefining \it@ccap on input line 38.
+
+
+File italian.ldf warning: 
+italian.ldf    With OT1 encoding guillemets are poorly faked
+italian.ldf    Use T1 encoding
+italian.ldf    or specify a font with command \CaporaliFrom
+italian.ldf    See the documentation concerning the babel-italian typesetting 
+italian.ldf    on input line 38.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(42.67912pt, 512.14963pt, 42.67912pt)
+* v-part:(T,H,B)=(42.67912pt, 759.6886pt, 42.67912pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=512.14963pt
+* \textheight=759.6886pt
+* \oddsidemargin=-29.59087pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-61.46466pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=11.0pt
+* \footskip=17.07182pt
+* \marginparwidth=106.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+<Immagini workbook/1.png, id=1, 343.5234pt x 95.6373pt>
+File: Immagini workbook/1.png Graphic file (type png)
+<use Immagini workbook/1.png>
+Package pdftex.def Info: Immagini workbook/1.png  used on input line 46.
+(pdftex.def)             Requested size: 309.1682pt x 86.07274pt.
+[1
+
+
+
+{C:/Users/LENOVO/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Immagini 
+workbook/1.png>] [2
+
+] (GNSS_Workbook_Executive_Summary.lof
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 4.
+
+
+(C:\Users\LENOVO\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+[1
+
+
+])
+\tf@lof=\write3
+\openout3 = `GNSS_Workbook_Executive_Summary.lof'.
+
+ [2] (GNSS_Workbook_Executive_Summary.lot)
+\tf@lot=\write4
+\openout4 = `GNSS_Workbook_Executive_Summary.lot'.
+
+ [3
+
+] [4
+
+]
+(GNSS_Workbook_Executive_Summary.toc [5])
+\tf@toc=\write5
+\openout5 = `GNSS_Workbook_Executive_Summary.toc'.
+
+ [6]
+Capitolo 1.
+<Immagini workbook/Immagini esp1/algo.png, id=39, 329.43076pt x 353.52075pt>
+File: Immagini workbook/Immagini esp1/algo.png Graphic file (type png)
+<use Immagini workbook/Immagini esp1/algo.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp1/algo.png  used on inpu
+t line 167.
+(pdftex.def)             Requested size: 280.01746pt x 300.49405pt.
+<Immagini workbook/Immagini esp1/algo2.png, id=41, 338.4645pt x 346.896pt>
+File: Immagini workbook/Immagini esp1/algo2.png Graphic file (type png)
+<use Immagini workbook/Immagini esp1/algo2.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp1/algo2.png  used on inp
+ut line 169.
+(pdftex.def)             Requested size: 294.46173pt x 301.79707pt.
+[1
+
+
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[2 <./Immagini workbook/Immagini esp1/algo.png> <./Immagini workbook/Immagini e
+sp1/algo2.png>]
+<Immagini workbook/Immagini esp1/weight/scen4/ris415.png, id=52, 1445.4pt x 697
+.10437pt>
+File: Immagini workbook/Immagini esp1/weight/scen4/ris415.png Graphic file (typ
+e png)
+<use Immagini workbook/Immagini esp1/weight/scen4/ris415.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp1/weight/scen4/ris415.pn
+g  used on input line 223.
+(pdftex.def)             Requested size: 505.89758pt x 243.99017pt.
+<Immagini workbook/Immagini esp1/weight/scen4/ris414.png, id=53, 1445.4pt x 697
+.10437pt>
+File: Immagini workbook/Immagini esp1/weight/scen4/ris414.png Graphic file (typ
+e png)
+<use Immagini workbook/Immagini esp1/weight/scen4/ris414.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp1/weight/scen4/ris414.pn
+g  used on input line 225.
+(pdftex.def)             Requested size: 505.89758pt x 243.99017pt.
+
+Overfull \hbox (1.04794pt too wide) in paragraph at lines 223--227
+ [][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[3]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[4 <./Immagini workbook/Immagini esp1/weight/scen4/ris415.png (PNG copy)> <./Im
+magini workbook/Immagini esp1/weight/scen4/ris414.png (PNG copy)>]
+<Immagini workbook/Immagini esp1/No weight/scen2/ris201.png, id=68, 1445.4pt x 
+697.10437pt>
+File: Immagini workbook/Immagini esp1/No weight/scen2/ris201.png Graphic file (
+type png)
+<use Immagini workbook/Immagini esp1/No weight/scen2/ris201.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp1/No weight/scen2/ris201
+.png  used on input line 258.
+(pdftex.def)             Requested size: 534.78963pt x 257.92458pt.
+<Immagini workbook/Immagini esp1/No weight/scen4/ris401.png, id=69, 1445.4pt x 
+697.10437pt>
+File: Immagini workbook/Immagini esp1/No weight/scen4/ris401.png Graphic file (
+type png)
+<use Immagini workbook/Immagini esp1/No weight/scen4/ris401.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp1/No weight/scen4/ris401
+.png  used on input line 260.
+(pdftex.def)             Requested size: 534.78963pt x 257.92458pt.
+
+Overfull \hbox (26.29pt too wide) in paragraph at lines 258--262
+ [][] 
+ []
+
+
+Overfull \hbox (26.29pt too wide) in paragraph at lines 258--262
+ [] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[5 <./Immagini workbook/Immagini esp1/No weight/scen2/ris201.png (PNG copy)> <.
+/Immagini workbook/Immagini esp1/No weight/scen4/ris401.png (PNG copy)>]
+<Immagini workbook/Immagini esp1/No weight/scen2/ris203.png, id=75, 1445.4pt x 
+697.10437pt>
+File: Immagini workbook/Immagini esp1/No weight/scen2/ris203.png Graphic file (
+type png)
+<use Immagini workbook/Immagini esp1/No weight/scen2/ris203.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp1/No weight/scen2/ris203
+.png  used on input line 271.
+(pdftex.def)             Requested size: 433.62335pt x 209.13292pt.
+<Immagini workbook/Immagini esp1/No weight/scen4/ris403.png, id=76, 1445.4pt x 
+697.10437pt>
+File: Immagini workbook/Immagini esp1/No weight/scen4/ris403.png Graphic file (
+type png)
+<use Immagini workbook/Immagini esp1/No weight/scen4/ris403.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp1/No weight/scen4/ris403
+.png  used on input line 273.
+(pdftex.def)             Requested size: 433.62335pt x 209.13292pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[6 <./Immagini workbook/Immagini esp1/No weight/scen2/ris203.png (PNG copy)> <.
+/Immagini workbook/Immagini esp1/No weight/scen4/ris403.png (PNG copy)>]
+<Immagini workbook/Immagini esp1/weight/scen2/ris213.png, id=80, 1445.4pt x 697
+.10437pt>
+File: Immagini workbook/Immagini esp1/weight/scen2/ris213.png Graphic file (typ
+e png)
+<use Immagini workbook/Immagini esp1/weight/scen2/ris213.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp1/weight/scen2/ris213.pn
+g  used on input line 388.
+(pdftex.def)             Requested size: 433.62335pt x 209.13292pt.
+<Immagini workbook/Immagini esp1/weight/scen4/ris413.png, id=81, 1445.4pt x 697
+.10437pt>
+File: Immagini workbook/Immagini esp1/weight/scen4/ris413.png Graphic file (typ
+e png)
+<use Immagini workbook/Immagini esp1/weight/scen4/ris413.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp1/weight/scen4/ris413.pn
+g  used on input line 390.
+(pdftex.def)             Requested size: 433.62335pt x 209.13292pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[8 <./Immagini workbook/Immagini esp1/weight/scen2/ris213.png (PNG copy)> <./Im
+magini workbook/Immagini esp1/weight/scen4/ris413.png (PNG copy)>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[9]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[10
+
+]
+Capitolo 2.
+[11]
+<Immagini workbook/Immagini esp2/efembrd.png, id=98, 598.03426pt x 441.44925pt>
+
+File: Immagini workbook/Immagini esp2/efembrd.png Graphic file (type png)
+<use Immagini workbook/Immagini esp2/efembrd.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp2/efembrd.png  used on i
+nput line 472.
+(pdftex.def)             Requested size: 281.07614pt x 207.48116pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[12 <./Immagini workbook/Immagini esp2/efembrd.png>]
+<Immagini workbook/Immagini esp2/efemglo.png, id=103, 317.988pt x 254.1495pt>
+File: Immagini workbook/Immagini esp2/efemglo.png Graphic file (type png)
+<use Immagini workbook/Immagini esp2/efemglo.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp2/efemglo.png  used on i
+nput line 551.
+(pdftex.def)             Requested size: 238.4904pt x 190.61165pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[13 <./Immagini workbook/Immagini esp2/efemglo.png>]
+<Immagini workbook/Immagini esp2/gps3d1.png, id=108, 1156.32pt x 557.08125pt>
+File: Immagini workbook/Immagini esp2/gps3d1.png Graphic file (type png)
+<use Immagini workbook/Immagini esp2/gps3d1.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp2/gps3d1.png  used on in
+put line 594.
+(pdftex.def)             Requested size: 312.21057pt x 150.41394pt.
+<Immagini workbook/Immagini esp2/gps3d2.png, id=109, 1156.32pt x 558.28575pt>
+File: Immagini workbook/Immagini esp2/gps3d2.png Graphic file (type png)
+<use Immagini workbook/Immagini esp2/gps3d2.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp2/gps3d2.png  used on in
+put line 596.
+(pdftex.def)             Requested size: 312.21057pt x 150.73917pt.
+<Immagini workbook/Immagini esp2/glo3d1.png, id=110, 1156.32pt x 557.08125pt>
+File: Immagini workbook/Immagini esp2/glo3d1.png Graphic file (type png)
+<use Immagini workbook/Immagini esp2/glo3d1.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp2/glo3d1.png  used on in
+put line 604.
+(pdftex.def)             Requested size: 312.21057pt x 150.41394pt.
+<Immagini workbook/Immagini esp2/glo3d2.png, id=111, 1156.32pt x 554.07pt>
+File: Immagini workbook/Immagini esp2/glo3d2.png Graphic file (type png)
+<use Immagini workbook/Immagini esp2/glo3d2.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp2/glo3d2.png  used on in
+put line 606.
+(pdftex.def)             Requested size: 312.21057pt x 149.60089pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[14 <./Immagini workbook/Immagini esp2/gps3d1.png> <./Immagini workbook/Immagin
+i esp2/gps3d2.png>]
+Overfull \hbox (2.43942pt too wide) in paragraph at lines 626--627
+\OT1/cmr/m/n/10.95 SP3 da-to (ESA0MGNFIN$[]$20240310000$[]$01D$[]$05M$[]$ORB.SP
+3), tra-mi-te la MA-TLAB \OT1/cmtt/m/n/10.95 function read$[]$sp3$[]$mul-
+ []
+
+<Immagini workbook/Immagini esp2/gpssp31.png, id=117, 1154.51324pt x 555.87675p
+t>
+File: Immagini workbook/Immagini esp2/gpssp31.png Graphic file (type png)
+<use Immagini workbook/Immagini esp2/gpssp31.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp2/gpssp31.png  used on i
+nput line 632.
+(pdftex.def)             Requested size: 311.72275pt x 150.08873pt.
+File: Immagini workbook/Immagini esp2/gpssp31.png Graphic file (type png)
+<use Immagini workbook/Immagini esp2/gpssp31.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp2/gpssp31.png  used on i
+nput line 639.
+(pdftex.def)             Requested size: 311.72275pt x 150.08873pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[15 <./Immagini workbook/Immagini esp2/glo3d1.png> <./Immagini workbook/Immagin
+i esp2/glo3d2.png> <./Immagini workbook/Immagini esp2/gpssp31.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 657--658
+
+ []
+
+<Immagini workbook/Immagini esp2/interp111.png, id=124, 1445.4pt x 697.10437pt>
+
+File: Immagini workbook/Immagini esp2/interp111.png Graphic file (type png)
+<use Immagini workbook/Immagini esp2/interp111.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp2/interp111.png  used on
+ input line 661.
+(pdftex.def)             Requested size: 505.89758pt x 243.99017pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[16 <./Immagini workbook/Immagini esp2/interp111.png (PNG copy)>]
+<Immagini workbook/Immagini esp2/diff1.png, id=128, 1445.4pt x 697.10437pt>
+File: Immagini workbook/Immagini esp2/diff1.png Graphic file (type png)
+<use Immagini workbook/Immagini esp2/diff1.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp2/diff1.png  used on inp
+ut line 685.
+(pdftex.def)             Requested size: 462.53746pt x 223.07796pt.
+<Immagini workbook/Immagini esp2/diff2.png, id=129, 1445.4pt x 697.10437pt>
+File: Immagini workbook/Immagini esp2/diff2.png Graphic file (type png)
+<use Immagini workbook/Immagini esp2/diff2.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp2/diff2.png  used on inp
+ut line 687.
+(pdftex.def)             Requested size: 462.53746pt x 223.07796pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[17
+
+ <./Immagini workbook/Immagini esp2/diff1.png (PNG copy)> <./Immagini workbook/
+Immagini esp2/diff2.png (PNG copy)>]
+<Immagini workbook/Immagini esp2/skyplotbrd.png, id=134, 526.96875pt x 395.2265
+6pt>
+File: Immagini workbook/Immagini esp2/skyplotbrd.png Graphic file (type png)
+<use Immagini workbook/Immagini esp2/skyplotbrd.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp2/skyplotbrd.png  used o
+n input line 722.
+(pdftex.def)             Requested size: 289.8337pt x 217.37527pt.
+<Immagini workbook/Immagini esp2/satvista.png, id=135, 526.96875pt x 395.22656p
+t>
+File: Immagini workbook/Immagini esp2/satvista.png Graphic file (type png)
+<use Immagini workbook/Immagini esp2/satvista.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp2/satvista.png  used on 
+input line 733.
+(pdftex.def)             Requested size: 289.8337pt x 217.37527pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[18 <./Immagini workbook/Immagini esp2/skyplotbrd.png (PNG copy)>]
+<Immagini workbook/Immagini esp2/skyplotsp3.png, id=139, 526.96875pt x 395.2265
+6pt>
+File: Immagini workbook/Immagini esp2/skyplotsp3.png Graphic file (type png)
+<use Immagini workbook/Immagini esp2/skyplotsp3.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp2/skyplotsp3.png  used o
+n input line 759.
+(pdftex.def)             Requested size: 289.8337pt x 217.37527pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[19 <./Immagini workbook/Immagini esp2/satvista.png (PNG copy)> <./Immagini wor
+kbook/Immagini esp2/skyplotsp3.png (PNG copy)>]
+<Immagini workbook/Immagini esp2/satvistasp3.png, id=143, 526.96875pt x 395.226
+56pt>
+File: Immagini workbook/Immagini esp2/satvistasp3.png Graphic file (type png)
+<use Immagini workbook/Immagini esp2/satvistasp3.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp2/satvistasp3.png  used 
+on input line 768.
+(pdftex.def)             Requested size: 289.8337pt x 217.37527pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[20 <./Immagini workbook/Immagini esp2/satvistasp3.png (PNG copy)>]
+Capitolo 3.
+<Immagini workbook/Immagini esp3/leap.png, id=147, 638.385pt x 442.65375pt>
+File: Immagini workbook/Immagini esp3/leap.png Graphic file (type png)
+<use Immagini workbook/Immagini esp3/leap.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp3/leap.png  used on inpu
+t line 824.
+(pdftex.def)             Requested size: 351.11282pt x 243.4603pt.
+
+Underfull \vbox (badness 1253) has occurred while \output is active []
+
+ [21
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[22 <./Immagini workbook/Immagini esp3/leap.png>]
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <12> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 861.
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <8> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 861.
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <6> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 861.
+<Immagini workbook/Immagini esp3/pseudo1.png, id=155, 516.12825pt x 361.95226pt
+>
+File: Immagini workbook/Immagini esp3/pseudo1.png Graphic file (type png)
+<use Immagini workbook/Immagini esp3/pseudo1.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp3/pseudo1.png  used on i
+nput line 885.
+(pdftex.def)             Requested size: 309.67934pt x 217.17302pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[23 <./Immagini workbook/Immagini esp3/pseudo1.png>]
+<Immagini workbook/Immagini esp3/rot1.png, id=162, 337.26pt x 341.47575pt>
+File: Immagini workbook/Immagini esp3/rot1.png Graphic file (type png)
+<use Immagini workbook/Immagini esp3/rot1.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp3/rot1.png  used on inpu
+t line 946.
+(pdftex.def)             Requested size: 134.9016pt x 136.58788pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[24 <./Immagini workbook/Immagini esp3/rot1.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[25]
+<Immagini workbook/Immagini esp3/stat12.png, id=170, 1445.4pt x 697.10437pt>
+File: Immagini workbook/Immagini esp3/stat12.png Graphic file (type png)
+<use Immagini workbook/Immagini esp3/stat12.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp3/stat12.png  used on in
+put line 1032.
+(pdftex.def)             Requested size: 433.62335pt x 209.13292pt.
+<Immagini workbook/Immagini esp3/stat13.png, id=171, 1445.4pt x 697.10437pt>
+File: Immagini workbook/Immagini esp3/stat13.png Graphic file (type png)
+<use Immagini workbook/Immagini esp3/stat13.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp3/stat13.png  used on in
+put line 1041.
+(pdftex.def)             Requested size: 361.34912pt x 174.27567pt.
+
+Underfull \vbox (badness 1852) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[26 <./Immagini workbook/Immagini esp3/stat12.png (PNG copy)>]
+<Immagini workbook/Immagini esp3/stat15.png, id=175, 1445.4pt x 697.10437pt>
+File: Immagini workbook/Immagini esp3/stat15.png Graphic file (type png)
+<use Immagini workbook/Immagini esp3/stat15.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp3/stat15.png  used on in
+put line 1057.
+(pdftex.def)             Requested size: 361.34912pt x 174.27567pt.
+<Immagini workbook/Immagini esp3/din2.png, id=176, 1445.4pt x 697.10437pt>
+File: Immagini workbook/Immagini esp3/din2.png Graphic file (type png)
+<use Immagini workbook/Immagini esp3/din2.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp3/din2.png  used on inpu
+t line 1068.
+(pdftex.def)             Requested size: 433.62335pt x 209.13292pt.
+<Immagini workbook/Immagini esp3/din3.png, id=177, 1445.4pt x 697.10437pt>
+File: Immagini workbook/Immagini esp3/din3.png Graphic file (type png)
+<use Immagini workbook/Immagini esp3/din3.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp3/din3.png  used on inpu
+t line 1077.
+(pdftex.def)             Requested size: 361.34912pt x 174.27567pt.
+
+Underfull \vbox (badness 3792) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[27 <./Immagini workbook/Immagini esp3/stat13.png (PNG copy)> <./Immagini workb
+ook/Immagini esp3/stat15.png (PNG copy)> <./Immagini workbook/Immagini esp3/din
+2.png (PNG copy)>]
+<Immagini workbook/Immagini esp3/din5.png, id=181, 1445.4pt x 697.10437pt>
+File: Immagini workbook/Immagini esp3/din5.png Graphic file (type png)
+<use Immagini workbook/Immagini esp3/din5.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp3/din5.png  used on inpu
+t line 1093.
+(pdftex.def)             Requested size: 361.34912pt x 174.27567pt.
+<Immagini workbook/Immagini esp3/stat22.png, id=182, 1445.4pt x 697.10437pt>
+File: Immagini workbook/Immagini esp3/stat22.png Graphic file (type png)
+<use Immagini workbook/Immagini esp3/stat22.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp3/stat22.png  used on in
+put line 1104.
+(pdftex.def)             Requested size: 433.62335pt x 209.13292pt.
+<Immagini workbook/Immagini esp3/stat23.png, id=183, 1445.4pt x 697.10437pt>
+File: Immagini workbook/Immagini esp3/stat23.png Graphic file (type png)
+<use Immagini workbook/Immagini esp3/stat23.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp3/stat23.png  used on in
+put line 1113.
+(pdftex.def)             Requested size: 361.34912pt x 174.27567pt.
+
+Underfull \vbox (badness 3792) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[28 <./Immagini workbook/Immagini esp3/din3.png (PNG copy)> <./Immagini workboo
+k/Immagini esp3/din5.png (PNG copy)> <./Immagini workbook/Immagini esp3/stat22.
+png (PNG copy)>]
+<Immagini workbook/Immagini esp3/stat25.png, id=187, 1445.4pt x 697.10437pt>
+File: Immagini workbook/Immagini esp3/stat25.png Graphic file (type png)
+<use Immagini workbook/Immagini esp3/stat25.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp3/stat25.png  used on in
+put line 1129.
+(pdftex.def)             Requested size: 361.34912pt x 174.27567pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[29 <./Immagini workbook/Immagini esp3/stat23.png (PNG copy)> <./Immagini workb
+ook/Immagini esp3/stat25.png (PNG copy)>]
+Underfull \hbox (badness 10000) in paragraph at lines 1196--1197
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[30]
+Capitolo 4.
+[31
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[32]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[33]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[34]
+<Immagini workbook/Immagini esp8/stat821.png, id=207, 1445.4pt x 697.10437pt>
+File: Immagini workbook/Immagini esp8/stat821.png Graphic file (type png)
+<use Immagini workbook/Immagini esp8/stat821.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp8/stat821.png  used on i
+nput line 1440.
+(pdftex.def)             Requested size: 433.62335pt x 209.13292pt.
+<Immagini workbook/Immagini esp8/stat822.png, id=208, 1445.4pt x 697.10437pt>
+File: Immagini workbook/Immagini esp8/stat822.png Graphic file (type png)
+<use Immagini workbook/Immagini esp8/stat822.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp8/stat822.png  used on i
+nput line 1449.
+(pdftex.def)             Requested size: 433.62335pt x 209.13292pt.
+<Immagini workbook/Immagini esp8/stat83.png, id=209, 1445.4pt x 697.10437pt>
+File: Immagini workbook/Immagini esp8/stat83.png Graphic file (type png)
+<use Immagini workbook/Immagini esp8/stat83.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp8/stat83.png  used on in
+put line 1456.
+(pdftex.def)             Requested size: 433.62335pt x 209.13292pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[35 <./Immagini workbook/Immagini esp8/stat821.png (PNG copy)> <./Immagini work
+book/Immagini esp8/stat822.png (PNG copy)>]
+<Immagini workbook/Immagini esp8/stat85.png, id=214, 1445.4pt x 697.10437pt>
+File: Immagini workbook/Immagini esp8/stat85.png Graphic file (type png)
+<use Immagini workbook/Immagini esp8/stat85.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp8/stat85.png  used on in
+put line 1472.
+(pdftex.def)             Requested size: 361.34912pt x 174.27567pt.
+<Immagini workbook/Immagini esp8/din82.png, id=215, 1445.4pt x 697.10437pt>
+File: Immagini workbook/Immagini esp8/din82.png Graphic file (type png)
+<use Immagini workbook/Immagini esp8/din82.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp8/din82.png  used on inp
+ut line 1483.
+(pdftex.def)             Requested size: 433.62335pt x 209.13292pt.
+<Immagini workbook/Immagini esp8/din83.png, id=216, 1445.4pt x 697.10437pt>
+File: Immagini workbook/Immagini esp8/din83.png Graphic file (type png)
+<use Immagini workbook/Immagini esp8/din83.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp8/din83.png  used on inp
+ut line 1492.
+(pdftex.def)             Requested size: 361.34912pt x 174.27567pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[36 <./Immagini workbook/Immagini esp8/stat83.png (PNG copy)> <./Immagini workb
+ook/Immagini esp8/stat85.png (PNG copy)> <./Immagini workbook/Immagini esp8/din
+82.png (PNG copy)>]
+<Immagini workbook/Immagini esp8/din5.png, id=220, 1445.4pt x 697.10437pt>
+File: Immagini workbook/Immagini esp8/din5.png Graphic file (type png)
+<use Immagini workbook/Immagini esp8/din5.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp8/din5.png  used on inpu
+t line 1508.
+(pdftex.def)             Requested size: 361.34912pt x 174.27567pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[37 <./Immagini workbook/Immagini esp8/din83.png (PNG copy)> <./Immagini workbo
+ok/Immagini esp8/din5.png (PNG copy)>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[38]
+Capitolo 5.
+<Immagini workbook/Immagini esp3/err_clock.png, id=227, 1445.4pt x 697.10437pt>
+
+File: Immagini workbook/Immagini esp3/err_clock.png Graphic file (type png)
+<use Immagini workbook/Immagini esp3/err_clock.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp3/err_clock.png  used on
+ input line 1578.
+(pdftex.def)             Requested size: 448.06937pt x 216.10011pt.
+<Immagini workbook/Immagini esp3/err_leap_sec.png, id=228, 1445.4pt x 697.10437
+pt>
+File: Immagini workbook/Immagini esp3/err_leap_sec.png Graphic file (type png)
+<use Immagini workbook/Immagini esp3/err_leap_sec.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp3/err_leap_sec.png  used
+ on input line 1587.
+(pdftex.def)             Requested size: 448.06937pt x 216.10011pt.
+<Immagini workbook/Immagini esp3/err_sat_pos.png, id=229, 1445.4pt x 697.10437p
+t>
+File: Immagini workbook/Immagini esp3/err_sat_pos.png Graphic file (type png)
+<use Immagini workbook/Immagini esp3/err_sat_pos.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp3/err_sat_pos.png  used 
+on input line 1596.
+(pdftex.def)             Requested size: 448.06937pt x 216.10011pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39
+
+ <./Immagini workbook/Immagini esp3/err_clock.png (PNG copy)> <./Immagini workb
+ook/Immagini esp3/err_leap_sec.png (PNG copy)>]
+<Immagini workbook/Immagini esp3/err_segnac.png, id=233, 1445.4pt x 697.10437pt
+>
+File: Immagini workbook/Immagini esp3/err_segnac.png Graphic file (type png)
+<use Immagini workbook/Immagini esp3/err_segnac.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp3/err_segnac.png  used o
+n input line 1605.
+(pdftex.def)             Requested size: 448.06937pt x 216.10011pt.
+<Immagini workbook/Immagini esp3/err_rel.png, id=234, 1445.4pt x 697.10437pt>
+File: Immagini workbook/Immagini esp3/err_rel.png Graphic file (type png)
+<use Immagini workbook/Immagini esp3/err_rel.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp3/err_rel.png  used on i
+nput line 1614.
+(pdftex.def)             Requested size: 448.06937pt x 216.10011pt.
+<Immagini workbook/Immagini esp3/err_iono.png, id=235, 1445.4pt x 697.10437pt>
+File: Immagini workbook/Immagini esp3/err_iono.png Graphic file (type png)
+<use Immagini workbook/Immagini esp3/err_iono.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp3/err_iono.png  used on 
+input line 1623.
+(pdftex.def)             Requested size: 448.06937pt x 216.10011pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[40 <./Immagini workbook/Immagini esp3/err_sat_pos.png (PNG copy)> <./Immagini 
+workbook/Immagini esp3/err_segnac.png (PNG copy)> <./Immagini workbook/Immagini
+ esp3/err_rel.png (PNG copy)>]
+<Immagini workbook/Immagini esp3/err_tropo.png, id=239, 1445.4pt x 697.10437pt>
+
+File: Immagini workbook/Immagini esp3/err_tropo.png Graphic file (type png)
+<use Immagini workbook/Immagini esp3/err_tropo.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp3/err_tropo.png  used on
+ input line 1632.
+(pdftex.def)             Requested size: 448.06937pt x 216.10011pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[41 <./Immagini workbook/Immagini esp3/err_iono.png (PNG copy)> <./Immagini wor
+kbook/Immagini esp3/err_tropo.png (PNG copy)>]
+<Immagini workbook/Immagini esp8/err_clock_8.png, id=244, 1445.4pt x 697.10437p
+t>
+File: Immagini workbook/Immagini esp8/err_clock_8.png Graphic file (type png)
+<use Immagini workbook/Immagini esp8/err_clock_8.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp8/err_clock_8.png  used 
+on input line 1645.
+(pdftex.def)             Requested size: 433.62335pt x 209.13292pt.
+<Immagini workbook/Immagini esp8/err_leap_8.png, id=245, 1445.4pt x 697.10437pt
+>
+File: Immagini workbook/Immagini esp8/err_leap_8.png Graphic file (type png)
+<use Immagini workbook/Immagini esp8/err_leap_8.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp8/err_leap_8.png  used o
+n input line 1654.
+(pdftex.def)             Requested size: 433.62335pt x 209.13292pt.
+<Immagini workbook/Immagini esp8/err_satpos_8.png, id=246, 1445.4pt x 697.10437
+pt>
+File: Immagini workbook/Immagini esp8/err_satpos_8.png Graphic file (type png)
+<use Immagini workbook/Immagini esp8/err_satpos_8.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp8/err_satpos_8.png  used
+ on input line 1663.
+(pdftex.def)             Requested size: 433.62335pt x 209.13292pt.
+<Immagini workbook/Immagini esp8/err_segnac_8.png, id=247, 1445.4pt x 697.10437
+pt>
+File: Immagini workbook/Immagini esp8/err_segnac_8.png Graphic file (type png)
+<use Immagini workbook/Immagini esp8/err_segnac_8.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp8/err_segnac_8.png  used
+ on input line 1672.
+(pdftex.def)             Requested size: 433.62335pt x 209.13292pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[42
+
+ <./Immagini workbook/Immagini esp8/err_clock_8.png (PNG copy)> <./Immagini wor
+kbook/Immagini esp8/err_leap_8.png (PNG copy)> <./Immagini workbook/Immagini es
+p8/err_satpos_8.png (PNG copy)>]
+<Immagini workbook/Immagini esp8/err_rel_8.png, id=251, 1445.4pt x 697.10437pt>
+
+File: Immagini workbook/Immagini esp8/err_rel_8.png Graphic file (type png)
+<use Immagini workbook/Immagini esp8/err_rel_8.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp8/err_rel_8.png  used on
+ input line 1681.
+(pdftex.def)             Requested size: 433.62335pt x 209.13292pt.
+<Immagini workbook/Immagini esp8/err_iono_8.png, id=252, 1445.4pt x 697.10437pt
+>
+File: Immagini workbook/Immagini esp8/err_iono_8.png Graphic file (type png)
+<use Immagini workbook/Immagini esp8/err_iono_8.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp8/err_iono_8.png  used o
+n input line 1690.
+(pdftex.def)             Requested size: 433.62335pt x 209.13292pt.
+<Immagini workbook/Immagini esp8/err_tropo_8.png, id=253, 1445.4pt x 697.10437p
+t>
+File: Immagini workbook/Immagini esp8/err_tropo_8.png Graphic file (type png)
+<use Immagini workbook/Immagini esp8/err_tropo_8.png>
+Package pdftex.def Info: Immagini workbook/Immagini esp8/err_tropo_8.png  used 
+on input line 1699.
+(pdftex.def)             Requested size: 433.62335pt x 209.13292pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[43 <./Immagini workbook/Immagini esp8/err_segnac_8.png (PNG copy)> <./Immagini
+ workbook/Immagini esp8/err_rel_8.png (PNG copy)> <./Immagini workbook/Immagini
+ esp8/err_iono_8.png (PNG copy)>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[44 <./Immagini workbook/Immagini esp8/err_tropo_8.png (PNG copy)>]
+(GNSS_Workbook_Executive_Summary.aux) ) 
+Here is how much of TeX's memory you used:
+ 9363 strings out of 475385
+ 179454 string characters out of 2776435
+ 609211 words of memory out of 3000000
+ 30495 multiletter control sequences out of 15000+600000
+ 492275 words of font info for 115 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,14n,79p,1282b,741s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/LENOVO/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/LENOVO/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/LENOVO/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/
+LENOVO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+<C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
+mmi6.pfb><C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmmi7.pfb><C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmmi8.pfb><C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/LENOVO/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/LENOVO/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/LENOVO/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/LENOVO/
+AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users
+/LENOVO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><
+C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+r9.pfb><C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmsl10.pfb><C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmsl9.pfb><C:/Users/LENOVO/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/LENOVO/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/LENOVO/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/LENOVO/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/LENOV
+O/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/U
+sers/LENOVO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12
+.pfb>
+Output written on GNSS_Workbook_Executive_Summary.pdf (52 pages, 40984472 bytes
+).
+PDF statistics:
+ 352 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 291 words of extra memory for PDF output out of 10000 (max. 10000000)
+

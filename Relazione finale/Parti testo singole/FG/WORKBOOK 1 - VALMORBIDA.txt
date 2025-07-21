@@ -1,0 +1,22 @@
+\section{Methodology of analysis}
+	In questa sezione saranno presentati i codici matlab utilizzati per il calcolo del fix di posizione e l'analisi di covarianza. In particolare l'esperienza prevedeva l'implementazione del metodo dei minimi quadrati sia con matrice di peso che senza.
+	\subsection{Scenario data}
+	I dati sperimentali consistevano in misure di pseudorange ottenute da due configurazioni diverse per quanto riguarda il numero e la posizione delle stazioni. Per ognuna delle configurazioni è stato inizializzato uno scenario in cui è stato trascurato il termine $$c\tau$$ legato alla non sincronizzazione degli orologi e uno in cui invece è presente come variabile aggiuntiva.
+	\subsection{Covariance analysis - Covariance analysis weighted}
+	Questo script esegue l'analisi di covarianza sull'incertezza della misura di posizione e l’errore commesso durante la stima. Nel caso la matrice di peso non sia una matrice identità le incertezze vengono pesate in base agli elementi non diagonali della matrice $$C_pp$$ di covarianza.
+	(%VEDI SEC è IL CASO DI AGGIUNGERE EQUAZIONI ANDRES)
+	\subsection{Quadratic function}
+	Questo script implementa le funzioni quadratiche $$\Xi^2$$ e $$\Sigma^2$$ che rappresentano funzioni di costo il cui obiettivo è che vengano minimizzate, in modo che il vettore degli incrementi $$\Delta x$$ sia minimo e quindi che la soluzione stimata sia il più fedele alla solzione vera. Lo script genererà quindi un plot di una funzione quadratica in modo da avere un riscontro visivo per quanto riguarda la minimizzazione dei del vettore degli incrementi.
+	\subsection{Fix GPS 2D weighted} 
+	Questo script implementa l'algoritmo per la stima di posizione utilizzando il metodo dei minimi quadrati ricorsivo.
+	\paragraph{Definizione dello scenario} Viene selezionato uno dei quattro scenari richiamando il file scenario data.
+	\paragraph{Ciclo principale}Dopo aver eseguito inizializzato le variabili viene avviato un ciclo while che si ripete fino a quando non viene soddisfatta la condizione di arresto sulla norma del vettore degli incrementi o viene raggiunto il numero massimo di iterazioni. All'interno del ciclo vengono calcolate le misure di pseudorange stimando la distanza tra il ricevitore e le stazioni terrestri e da queste si determina il vettore dei residui tra le misure di pseudorange effettive e quelle calcolate.
+	Viene costruita la matrice dei coefficienti H per risolvere un sistema di equazioni lineari che come incognite ha gli incrementi da applicare alla posizione del ricevitore, tenendo in considerazione la matrice di peso W, data dall'inverso della matrice di covarianza.
+	Viene quindi verificata la condizione di arresto in base alla norma degli incrementi calcolati. La posizione del ricevitore viene aggiornata e vengono memorizzate le sue coordinate.
+	Analisi della covarianza: Viene condotta un'analisi della covarianza per valutare la precisione della stima della posizione del ricevitore.
+	\paragraph{Plot} Infine, vengono visualizzati graficamente i risultati del processo di localizzazione.
+	\subsection{Fix GPS 2D weighted}
+	La struttura di questo script è essenzialmente identica a quello del caso pesato, in quanto ricade nel caso di una matrice di peso identità.
+	
+	
+	
